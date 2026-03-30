@@ -1,9 +1,10 @@
-Welcome to my collection of hobby and passion-driven projects, where I explore a variety of interests:
+## 💻 Welcome to SaharaHex
+This is my collection of hobby driven and passion fuelled projects, where I dive into a wide range of interests:
+-	Learning new programming skills in Ruby, Rust, React, and Java through Udemy and LinkedIn Learning
+-	Creating games with Unity and the Godot Game Engine
+-	Experimenting with hardware, from Raspberry Pi (Python) to the Clockwork PicoCalc (MMBasic)
+-	Exploring retro tech, repairing and tinkering with classic hardware and old school gaming
 
-- Programming Languages
-- Unity Game Engine
-- Godot Game Engine
-- Raspberry Pi
-- Retro Gaming, tinkering with old tech.
+I’m always building, learning, and experimenting. Whether you’re a fellow developer or simply curious about these technologies, you’re welcome to follow along.
 
-Keep an eye out for more updates on my projects, whether you’re a developer yourself or just interested in these technologies.
+🚀Developer Blog: https://saharahex.uk/
